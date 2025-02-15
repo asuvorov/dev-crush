@@ -1,5 +1,7 @@
 # Tactical Interview preparing
 
+---
+
 ## Table Of Contents
 
 1. Technical Interview
@@ -15,6 +17,12 @@
 ## Technical Interview
 
 ## System Design focused Interview
+
+1. [GitHub - mutablealligator/system-design-primer: Learn how to design large scale systems. Prep for the system design interview.](https://github.com/mutablealligator/system-design-primer)
+
+2. https://levelup.gitconnected.com/system-design-interview-question-design-spotify-4a8a79697dda
+
+3. 
 
 ## Case Interview
 

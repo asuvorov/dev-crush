@@ -14,13 +14,23 @@
 
 1. [Golang](./docs/golang.md)
 
+## Javascript
+
+1. [Javascript](./docs/js.md)
+
+## Kotlin
+
+1. [Kotlin](./docs/kotlin.md)
+
+## UI/UX
+
+1. [UI/UX](./docs/ui-ux.md)
+
 ## Orchestration
 
 1. [Orchestration](./docs/orchestration.md)
 
 ## Food for Thoughts
-
-
 
 1. [Technical writing](./docs/technical-writing.md)
 2. [SEO](./docs/seo.md)

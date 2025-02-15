@@ -1,10 +1,9 @@
-JSON Logging with Django
-https://blog.rama.io/json-logging-with-django
+https://www.geeksforgeeks.org/django-interview-questions/
 
-https://docs.python.org/3/library/logging.html#logrecord-attributes
-https://github.com/marselester/json-log-formatter
+[GitHub - Here2ServeU/t2s-bank-terraform](https://github.com/Here2ServeU/t2s-bank-terraform)
 
-Installing Docker on Ubuntu 22.04
-https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-22-04
 
-https://realpython.com/documenting-python-code/
+
+
+
+[Crafting Your Developer Identity: A Blueprint for 2024 🌟 - DEV Community](https://dev.to/lokesh_singh/crafting-your-developer-identity-a-blueprint-for-2024-p92?context=digest)

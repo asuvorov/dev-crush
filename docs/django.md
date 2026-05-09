@@ -50,24 +50,31 @@
 
 ## Articles
 
-1. [Django ORM vs Raw SQL — What I Really Use at Scale](https://python.plainenglish.io/django-orm-vs-raw-sql-what-i-actually-use-at-scale-2e34fd0e530d)
+1. [Before Going to Production: Architecting Django for High Load](https://python.plainenglish.io/before-going-to-production-architecting-django-for-high-load-5f02f7ad8e48)
 
-2. [Scaling Django Like a Pro — Caching Secrets I Actually Use](https://python.plainenglish.io/scaling-django-like-a-pro-caching-secrets-i-actually-use-a9a72c2e9d92)
+2. [Django ORM vs Raw SQL — What I Really Use at Scale](https://python.plainenglish.io/django-orm-vs-raw-sql-what-i-actually-use-at-scale-2e34fd0e530d)
 
-3. [The Dark Side of JWT: Why Developers Keep Warning You Not to Use It](https://blog.stackademic.com/the-dark-side-of-jwt-why-developers-keep-warning-you-not-to-use-it-bd6a2185a06e)
+3. [Don’t Blame Django. Blame Your Indexes](https://python.plainenglish.io/dont-blame-django-blame-your-indexes-075a7e7905e1)
 
-4. [The Django Multi-Database Router is Broken (Here’s How to Fix It)](https://python.plainenglish.io/the-django-multi-database-router-is-broken-heres-how-to-fix-it-e5a76dc8bc10)
+4. [Scaling Django Like a Pro — Caching Secrets I Actually Use](https://python.plainenglish.io/scaling-django-like-a-pro-caching-secrets-i-actually-use-a9a72c2e9d92)
 
-5. [The Django ORM Blueprint: Write Better Code, Faster](https://python.plainenglish.io/the-django-orm-blueprint-write-better-code-faster-745ad6703cb7)
+5. [The Dark Side of JWT: Why Developers Keep Warning You Not to Use It](https://blog.stackademic.com/the-dark-side-of-jwt-why-developers-keep-warning-you-not-to-use-it-bd6a2185a06e)
 
-6. [Why the Django ORM Is the Beating Heart of Your App (And You’re Probably Underestimating It)](https://python.plainenglish.io/why-the-django-orm-is-the-beating-heart-of-your-app-and-youre-probably-underestimating-it-ebc6a6621a06)
+6. [The Django Multi-Database Router is Broken (Here’s How to Fix It)](https://python.plainenglish.io/the-django-multi-database-router-is-broken-heres-how-to-fix-it-e5a76dc8bc10)
 
-7. 
+7. [The Django ORM Blueprint: Write Better Code, Faster](https://python.plainenglish.io/the-django-orm-blueprint-write-better-code-faster-745ad6703cb7)
+
+8. [Why the Django ORM Is the Beating Heart of Your App (And You’re Probably Underestimating It)](https://python.plainenglish.io/why-the-django-orm-is-the-beating-heart-of-your-app-and-youre-probably-underestimating-it-ebc6a6621a06)
+
+9. 
 
 ### dev.to
 
 1. [Building a Fort: Django Security Best Practices - DEV Community](https://dev.to/topunix/building-a-fort-django-security-best-practices-4fa4)
-2. 
+
+2. [This One Python Trick Will Make Your Code Look Like a Pro’s - DEV Community](https://dev.to/aaron_rose_0787cc8b4775a0/this-one-python-trick-will-make-your-code-look-like-a-pros-4j2?context=digest)
+
+3. 
 
 ### Medium
 
@@ -117,30 +124,36 @@
 
 23. [Mastering Multi-Tenant Architectures in Django: Three Powerful Approaches](https://medium.com/simform-engineering/mastering-multi-tenant-architectures-in-django-three-powerful-approaches-178ff527c03f)
 
-24. [Sync To Async in Django](https://medium.com/@petrica.leuca/sync-to-async-in-django-f50ec618b48d)
+24. [N+1 Queries: The Silent Killer of Backend Performance](https://medium.com/@anas-issath/a13501b03465)
 
-25. [The Architecture Behind Modern Web Applications: Understanding Nginx, Gunicorn, and Django](https://medium.com/@pawan_bakle/the-architecture-behind-modern-web-applications-understanding-nginx-gunicorn-and-django-1d7f90bb948e)
+25. [Sync To Async in Django](https://medium.com/@petrica.leuca/sync-to-async-in-django-f50ec618b48d)
 
-26. [The Art of Writing Clean Django Code — Part 1](https://medium.com/@djangowiki/the-art-of-writing-clean-django-code-part-1-d6332bde3caa)
+26. [The Architecture Behind Modern Web Applications: Understanding Nginx, Gunicorn, and Django](https://medium.com/@pawan_bakle/the-architecture-behind-modern-web-applications-understanding-nginx-gunicorn-and-django-1d7f90bb948e)
 
-27. [The Art of Writing Clean Django Code — Part 2](https://medium.com/@djangowiki/the-art-of-writing-clean-django-code-part-2-31201ac07cd0)
+27. [The Art of Writing Clean Django Code — Part 1](https://medium.com/@djangowiki/the-art-of-writing-clean-django-code-part-1-d6332bde3caa)
 
-28. [The Django `SECRET_KEY`: Your App’s Most Dangerous Leak](https://medium.com/@Am_Issath/e59d627fba52)
+28. [The Art of Writing Clean Django Code — Part 2](https://medium.com/@djangowiki/the-art-of-writing-clean-django-code-part-2-31201ac07cd0)
 
-29. [The Django Maintenance Routine Nobody Teaches You](https://medium.com/@anas-issath/c2e390451667)
+29. [The Django `SECRET_KEY`: Your App’s Most Dangerous Leak](https://medium.com/@Am_Issath/e59d627fba52)
 
-30. [The Django Troubleshooting Tree](https://medium.com/@anas-issath/47b381976066)
+30. [The Django Docker Guide: Containerize Like a Pro](https://medium.com/@anas-issath/28ed979415c4)
 
-31. [What I Wish I Knew Before Building Django Apps](https://medium.com/@anas-issath/75770ea14384)
+31. [The Django Logging Guide: Debug Production Like a Expert](https://medium.com/@anas-issath/e532d392930b)
 
-32. [What Is `related_name` in Django, Really?](https://python.plainenglish.io/what-is-related-name-in-django-really-c42cd4ba9a04)
+32. [The Django Maintenance Routine Nobody Teaches You](https://medium.com/@anas-issath/c2e390451667)
 
-33. [What Is Django Middleware? Explained With Real Code Examples](https://medium.com/@husseinnaeemsec/django-middleware-explained-a-beginner-friendly-guide-6a52697b3962)
+33. [The Django Troubleshooting Tree](https://medium.com/@anas-issath/47b381976066)
 
-34. [When to Scale Your Django App (And When Not To)](https://medium.com/@anas-issath/dc7a7f132856)
+34. [What I Wish I Knew Before Building Django Apps](https://medium.com/@anas-issath/75770ea14384)
 
-35. [When to Use Class-Based Views vs Function-Based Views](https://medium.com/@anas-issath/5881ebc2d62d)
+35. [What Is `related_name` in Django, Really?](https://python.plainenglish.io/what-is-related-name-in-django-really-c42cd4ba9a04)
 
-36. [Writing Maintainable Annotation Code with SOLID Principles in Django](https://medium.com/@hafizh.surya/writing-maintainable-annotation-code-with-solid-principles-in-django-d3502a3a5cf7)
+36. [What Is Django Middleware? Explained With Real Code Examples](https://medium.com/@husseinnaeemsec/django-middleware-explained-a-beginner-friendly-guide-6a52697b3962)
 
-37. 
+37. [When to Scale Your Django App (And When Not To)](https://medium.com/@anas-issath/dc7a7f132856)
+
+38. [When to Use Class-Based Views vs Function-Based Views](https://medium.com/@anas-issath/5881ebc2d62d)
+
+39. [Writing Maintainable Annotation Code with SOLID Principles in Django](https://medium.com/@hafizh.surya/writing-maintainable-annotation-code-with-solid-principles-in-django-d3502a3a5cf7)
+
+40. 
